@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Watchface name="高级蓝橙撞色" width="464" height="464" id="362210355" SKU="false" _deviceType="N62">
+    <Resources>
+        <Image name="Image1" src="_preview/c95fd95.png" compressMethod="None" format="indexed8"/>
+        <Image name="Image2" src="96247fa.png" compressMethod="None" format="indexed8"/>
+        <Image name="Image3" src="f7b4ae4.png" compressMethod="None" format="indexed8"/>
+        <Image name="Image4" src="dd345f1.png" compressMethod="None" format="indexed8"/>
+        <Image name="Image5" src="0856c88.png" compressMethod="None" format="indexed8"/>
+        <ImageArray name="ImageArray1" compressMethod="None" format="indexed8">
+            <Image src="时间/b591193.png"/>
+            <Image src="时间/4e3234e.png"/>
+            <Image src="时间/8e46851.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray2" compressMethod="None" format="indexed8">
+            <Image src="时间/b591193.png"/>
+            <Image src="时间/4e3234e.png"/>
+            <Image src="时间/8e46851.png"/>
+            <Image src="时间/c8dfb7f.png"/>
+            <Image src="时间/b595735.png"/>
+            <Image src="时间/377d62f.png"/>
+            <Image src="时间/57c7a97.png"/>
+            <Image src="时间/de7ac41.png"/>
+            <Image src="时间/9f82aa1.png"/>
+            <Image src="时间/6f5e3f1.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray3" compressMethod="None" format="indexed8">
+            <Image src="时间/b591193.png"/>
+            <Image src="时间/4e3234e.png"/>
+            <Image src="时间/8e46851.png"/>
+            <Image src="时间/c8dfb7f.png"/>
+            <Image src="时间/b595735.png"/>
+            <Image src="时间/377d62f.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray4" compressMethod="None" format="truecolor_alpha">
+            <Image src="月份/c0242ec.png"/>
+            <Image src="月份/ce4a88c.png"/>
+            <Image src="月份/1b21b99.png"/>
+            <Image src="月份/692e5da.png"/>
+            <Image src="月份/eafef8e.png"/>
+            <Image src="月份/49a65f8.png"/>
+            <Image src="月份/6d5062a.png"/>
+            <Image src="月份/300e200.png"/>
+            <Image src="月份/bd7efa6.png"/>
+            <Image src="月份/821c20a.png"/>
+            <Image src="月份/d79cfbc.png"/>
+            <Image src="月份/55febe5.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray5" compressMethod="None" format="truecolor_alpha">
+            <Image src="日期/828024e.png"/>
+            <Image src="日期/09e0070.png"/>
+            <Image src="日期/c12318d.png"/>
+            <Image src="日期/08b6946.png"/>
+            <Image src="日期/af978c6.png"/>
+            <Image src="日期/d7aac0a.png"/>
+            <Image src="日期/ed3fc84.png"/>
+            <Image src="日期/08c498e.png"/>
+            <Image src="日期/45271b8.png"/>
+            <Image src="日期/b81eaba.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray6" compressMethod="None" format="truecolor_alpha">
+            <Image src="星期/2e49ca7.png"/>
+            <Image src="星期/3b16d2f.png"/>
+            <Image src="星期/16f0773.png"/>
+            <Image src="星期/bd0b66c.png"/>
+            <Image src="星期/33d01ce.png"/>
+            <Image src="星期/313850d.png"/>
+            <Image src="星期/53799f6.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray7" compressMethod="None" format="indexed8">
+            <Image src="电量/d57a445.png"/>
+            <Image src="电量/ae67fba.png"/>
+            <Image src="电量/cbe61aa.png"/>
+            <Image src="电量/7bc893b.png"/>
+            <Image src="电量/1784a43.png"/>
+            <Image src="电量/390fccc.png"/>
+            <Image src="电量/3858ca7.png"/>
+            <Image src="电量/d360ba5.png"/>
+            <Image src="电量/5f9412b.png"/>
+            <Image src="电量/70e73cd.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray8" compressMethod="None" format="indexed8">
+            <Image src="心率/d57a445.png"/>
+            <Image src="心率/ae67fba.png"/>
+            <Image src="心率/cbe61aa.png"/>
+            <Image src="心率/7bc893b.png"/>
+            <Image src="心率/1784a43.png"/>
+            <Image src="心率/390fccc.png"/>
+            <Image src="心率/3858ca7.png"/>
+            <Image src="心率/d360ba5.png"/>
+            <Image src="心率/5f9412b.png"/>
+            <Image src="心率/70e73cd.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray9" compressMethod="None" format="indexed8">
+            <Image src="心率/d57a445.png"/>
+            <Image src="心率/ae67fba.png"/>
+            <Image src="心率/cbe61aa.png"/>
+            <Image src="心率/7bc893b.png"/>
+            <Image src="心率/1784a43.png"/>
+            <Image src="心率/390fccc.png"/>
+            <Image src="心率/3858ca7.png"/>
+            <Image src="心率/d360ba5.png"/>
+            <Image src="心率/5f9412b.png"/>
+            <Image src="心率/70e73cd.png"/>
+            <Image src="心率/836b8e9.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray10" compressMethod="None" format="indexed8">
+            <Image src="时间/3afe190.png"/>
+            <Image src="时间/4fe6308.png"/>
+            <Image src="时间/48c1365.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray11" compressMethod="None" format="indexed8">
+            <Image src="时间/3afe190.png"/>
+            <Image src="时间/4fe6308.png"/>
+            <Image src="时间/48c1365.png"/>
+            <Image src="时间/36f98eb.png"/>
+            <Image src="时间/a4883a0.png"/>
+            <Image src="时间/ae2038d.png"/>
+            <Image src="时间/7c741ca.png"/>
+            <Image src="时间/688d884.png"/>
+            <Image src="时间/8baaaac.png"/>
+            <Image src="时间/d40d3b1.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray12" compressMethod="None" format="indexed8">
+            <Image src="时间/3afe190.png"/>
+            <Image src="时间/4fe6308.png"/>
+            <Image src="时间/48c1365.png"/>
+            <Image src="时间/36f98eb.png"/>
+            <Image src="时间/a4883a0.png"/>
+            <Image src="时间/ae2038d.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray13" compressMethod="None" format="truecolor_alpha">
+            <Image src="月份/3bee34f.png"/>
+            <Image src="月份/1537a5a.png"/>
+            <Image src="月份/3ffdd5c.png"/>
+            <Image src="月份/ca88ce5.png"/>
+            <Image src="月份/6d79900.png"/>
+            <Image src="月份/4125c00.png"/>
+            <Image src="月份/db0cf25.png"/>
+            <Image src="月份/ddc7c88.png"/>
+            <Image src="月份/b973501.png"/>
+            <Image src="月份/149a5ee.png"/>
+            <Image src="月份/e8aa5e8.png"/>
+            <Image src="月份/eb1f5ee.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray14" compressMethod="None" format="truecolor_alpha">
+            <Image src="日期/cbffe4d.png"/>
+            <Image src="日期/8be04c9.png"/>
+            <Image src="日期/b9c843f.png"/>
+            <Image src="日期/69ff721.png"/>
+            <Image src="日期/853574b.png"/>
+            <Image src="日期/f080c4a.png"/>
+            <Image src="日期/5fa6148.png"/>
+            <Image src="日期/7f57cab.png"/>
+            <Image src="日期/35cbd42.png"/>
+            <Image src="日期/5b6eb7d.png"/>
+        </ImageArray>
+        <ImageArray name="ImageArray15" compressMethod="None" format="truecolor_alpha">
+            <Image src="星期/9ec2b8b.png"/>
+            <Image src="星期/12b7679.png"/>
+            <Image src="星期/9936d6f.png"/>
+            <Image src="星期/a5444b5.png"/>
+            <Image src="星期/cb74e31.png"/>
+            <Image src="星期/de84d07.png"/>
+            <Image src="星期/295f32c.png"/>
+        </ImageArray>
+        <DataItemImageValues name="ImageValues1" source="timeHourHigh" ref="@ImageArray1" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues2" source="timeHourLow" ref="@ImageArray2" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues3" source="timeMinuteHigh" ref="@ImageArray3" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues4" source="timeMinuteLow" ref="@ImageArray2" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues5" source="timeSecondHigh" ref="@ImageArray3" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues6" source="timeSecondLow" ref="@ImageArray2" rotation="0" supportRecolor="true"/>
+        <Widget name="Widget1" widgetName="时间" groupType="general">
+            <Item ref="@ImageValues1" x="0" y="0" _id="17omhe" _name="图组"/>
+            <Item ref="@ImageValues2" x="18" y="0" _id="6py471" _name="图组1"/>
+            <Item ref="@ImageValues3" x="43" y="0" _id="s37hbc" _name="图组2"/>
+            <Item ref="@ImageValues4" x="61" y="0" _id="o1f8vc" _name="图组3"/>
+            <Item ref="@ImageValues5" x="88" y="0" _id="lq789s" _name="图组4"/>
+            <Item ref="@ImageValues6" x="106" y="0" _id="axreo3" _name="图组5"/>
+        </Widget>
+        <DataItemImageValues name="ImageValues7" source="dateMonth" ref="@ImageArray4" rotation="0" supportRecolor="true">
+            <Param value="1"/>
+            <Param value="2"/>
+            <Param value="3"/>
+            <Param value="4"/>
+            <Param value="5"/>
+            <Param value="6"/>
+            <Param value="7"/>
+            <Param value="8"/>
+            <Param value="9"/>
+            <Param value="10"/>
+            <Param value="11"/>
+            <Param value="12"/>
+        </DataItemImageValues>
+        <DataItemImageNumber name="ImageNumber1" source="dateDay" ref="@ImageArray5" rotation="0" supportRecolor="true" unitIcon="" leadingZero="false" decimalOffsetX="0" trailingZero="false" totalDigits="2" decimalDigits="0" parameter="1000" renderRule="alwaysShow" align="left" space="0"/>
+        <DataItemImageValues name="ImageValues8" source="dateWeek" ref="@ImageArray6" rotation="0" supportRecolor="true"/>
+        <DataItemImageNumber name="ImageNumber2" source="systemStatusBattery" ref="@ImageArray7" rotation="0" supportRecolor="true" unitIcon="" leadingZero="false" decimalOffsetX="0" trailingZero="false" totalDigits="3" decimalDigits="0" parameter="1000" renderRule="alwaysShow" align="right" space="0"/>
+        <Widget name="Widget2" widgetName="电量" groupType="general" jumpApp="settings" w="24" h="19">
+            <Item ref="@ImageNumber2" x="0" y="0" _id="hos2sc" _name="图组6"/>
+        </Widget>
+        <DataItemImageNumber name="ImageNumber3" source="healthStandCount" ref="@ImageArray8" rotation="0" supportRecolor="true" unitIcon="" leadingZero="false" decimalOffsetX="0" trailingZero="false" totalDigits="2" decimalDigits="0" parameter="1000" renderRule="alwaysShow" align="center" space="0"/>
+        <Widget name="Widget3" widgetName="站立" groupType="general" jumpApp="activities" w="20" h="30">
+            <Item ref="@ImageNumber3" x="0" y="0" _id="89mvem" _name="图组7"/>
+        </Widget>
+        <DataItemImageNumber name="ImageNumber4" source="healthHeartRate" ref="@ImageArray9" rotation="0" supportRecolor="true" unitIcon="" leadingZero="false" decimalOffsetX="0" trailingZero="false" totalDigits="3" decimalDigits="0" parameter="1000" renderRule="alwaysShow" align="center" space="0"/>
+        <Widget name="Widget4" widgetName="心率" groupType="general" jumpApp="heartrate" w="30" h="40">
+            <Item ref="@ImageNumber4" x="0" y="0" _id="lk58og" _name="图组8"/>
+        </Widget>
+        <DataItemPointer name="Pointer1" source="timeHour" ref="@Image3" pivotX="25" pivotY="200" supportRecolor="true" renderRule="alwaysShow" angleStart="0" angleRange="720" valueStart="0" valueRange="24"/>
+        <Widget name="Widget5" widgetName="时针" groupType="general" _label="用于逆光源指针组合">
+            <Layout ref="@Pointer1" x="0" y="0"/>
+        </Widget>
+        <DataItemPointer name="Pointer2" source="timeMinute" ref="@Image4" pivotX="25" pivotY="200" supportRecolor="true" renderRule="alwaysShow" angleStart="0" angleRange="360" valueStart="0" valueRange="60"/>
+        <Widget name="Widget6" widgetName="分针" groupType="general" _label="用于逆光源指针组合">
+            <Layout ref="@Pointer2" x="0" y="0"/>
+        </Widget>
+        <Widget name="Widget7" widgetName="一套指针（时/分/秒/轴心）" groupType="general">
+            <Item ref="@Widget5" x="7" y="36" _id="5b6kin" _name="时针"/>
+            <Item ref="@Widget6" x="7.5" y="35" _id="ycnxfb" _name="分针"/>
+        </Widget>
+        <DataItemImageValues name="ImageValues9" source="timeHourHigh" ref="@ImageArray10" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues10" source="timeHourLow" ref="@ImageArray11" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues11" source="timeMinuteHigh" ref="@ImageArray12" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues12" source="timeMinuteLow" ref="@ImageArray11" rotation="0" supportRecolor="true"/>
+        <DataItemImageValues name="ImageValues13" source="dateMonth" ref="@ImageArray13" rotation="0" supportRecolor="true">
+            <Param value="1"/>
+            <Param value="2"/>
+            <Param value="3"/>
+            <Param value="4"/>
+            <Param value="5"/>
+            <Param value="6"/>
+            <Param value="7"/>
+            <Param value="8"/>
+            <Param value="9"/>
+            <Param value="10"/>
+            <Param value="11"/>
+            <Param value="12"/>
+        </DataItemImageValues>
+        <DataItemImageNumber name="ImageNumber5" source="dateDay" ref="@ImageArray14" rotation="0" supportRecolor="true" unitIcon="" leadingZero="false" decimalOffsetX="0" trailingZero="false" totalDigits="2" decimalDigits="0" parameter="1000" renderRule="alwaysShow" align="left" space="0"/>
+        <DataItemImageValues name="ImageValues14" source="dateWeek" ref="@ImageArray15" rotation="0" supportRecolor="true"/>
+    </Resources>
+    <Theme type="normal" name="样式1" bgColor="#000000" isPhotoAlbumWatchface="false" preview="@Image1">
+        <Layout ref="@Image2" x="0" y="0" _id="v6mpxe" _name="图片背景"/>
+        <Layout ref="@Widget1" x="189" y="102" _id="9xxe6o" _name="时间"/>
+        <Layout ref="@ImageValues7" x="160" y="70" _id="r7ljdi" _name="月份"/>
+        <Layout ref="@ImageNumber1" x="210" y="70" _id="b72wwp" _name="日"/>
+        <Layout ref="@ImageValues8" x="251" y="71" _id="p3fwm2" _name="星期"/>
+        <Layout ref="@Widget2" x="148" y="105" _id="3ecwwy" _name="组3"/>
+        <Layout ref="@Widget3" x="113" y="344" _id="s96x2h" _name="组2"/>
+        <Layout ref="@Widget4" x="366" y="346" _id="syhess" _name="组1"/>
+        <Layout ref="@Widget7" x="200" y="0" _id="r911eh" _name="一套指针（时/分/秒/轴心）"/>
+    </Theme>
+    <Theme type="AOD" name="样式1" bgColor="#000000" isPhotoAlbumWatchface="false">
+        <Layout ref="@Image5" x="0" y="0" _id="4x4eb8" _name="图片背景"/>
+        <Layout ref="@ImageValues9" x="192" y="121" _id="2jqw5c" _name="图组"/>
+        <Layout ref="@ImageValues10" x="237" y="121" _id="t46giv" _name="图组1"/>
+        <Layout ref="@ImageValues11" x="192" y="212" _id="92s16w" _name="图组2"/>
+        <Layout ref="@ImageValues12" x="237" y="212" _id="cqi633" _name="图组3"/>
+        <Layout ref="@ImageValues13" x="163" y="318" _id="uc84sd" _name="月份"/>
+        <Layout ref="@ImageNumber5" x="213" y="318" _id="4ptjgt" _name="日"/>
+        <Layout ref="@ImageValues14" x="257" y="318" _id="l8ysbc" _name="星期"/>
+    </Theme>
+</Watchface>

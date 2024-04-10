@@ -1,0 +1,1117 @@
+{
+  "themes": [
+    {
+      "id": "ki8xxq",
+      "name": "样式1",
+      "type": "normal",
+      "children": [
+        {
+          "id": "v6mpxe",
+          "type": "Image",
+          "attrs": {
+            "sourceEnabled": false,
+            "valueStart": 0,
+            "valueEnd": 0,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 0,
+            "y": 0,
+            "w": 464,
+            "h": 464,
+            "rotation": 0,
+            "name": "图片背景",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "pointerFps": 1,
+            "pointerRegionNum": 0,
+            "shadowPointerOffsetY": 0,
+            "resources": {
+              "pointer0": {
+                "syjw0m": [
+                  "96247fa.png"
+                ]
+              }
+            },
+            "parameter": 1000
+          }
+        },
+        {
+          "id": "9xxe6o",
+          "type": "Widget",
+          "children": [
+            {
+              "id": "17omhe",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeHourHigh",
+                "valueStart": 0,
+                "valueEnd": 2,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 0,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "6py471",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeHourLow",
+                "valueStart": 0,
+                "valueEnd": 9,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 18,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组1",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png",
+                      "时间/c8dfb7f.png",
+                      "时间/b595735.png",
+                      "时间/377d62f.png",
+                      "时间/57c7a97.png",
+                      "时间/de7ac41.png",
+                      "时间/9f82aa1.png",
+                      "时间/6f5e3f1.png"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "s37hbc",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeMinuteHigh",
+                "valueStart": 0,
+                "valueEnd": 5,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 43,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组2",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png",
+                      "时间/c8dfb7f.png",
+                      "时间/b595735.png",
+                      "时间/377d62f.png"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "o1f8vc",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeMinuteLow",
+                "valueStart": 0,
+                "valueEnd": 9,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 61,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组3",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png",
+                      "时间/c8dfb7f.png",
+                      "时间/b595735.png",
+                      "时间/377d62f.png",
+                      "时间/57c7a97.png",
+                      "时间/de7ac41.png",
+                      "时间/9f82aa1.png",
+                      "时间/6f5e3f1.png"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "lq789s",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeSecondHigh",
+                "valueStart": 0,
+                "valueEnd": 5,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 88,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组4",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png",
+                      "时间/c8dfb7f.png",
+                      "时间/b595735.png",
+                      "时间/377d62f.png"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "axreo3",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeSecondLow",
+                "valueStart": 0,
+                "valueEnd": 9,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 106,
+                "y": 0,
+                "w": 15,
+                "h": 24,
+                "rotation": 0,
+                "name": "图组5",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "普通填充",
+                "align": "left",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "时间/b591193.png",
+                      "时间/4e3234e.png",
+                      "时间/8e46851.png",
+                      "时间/c8dfb7f.png",
+                      "时间/b595735.png",
+                      "时间/377d62f.png",
+                      "时间/57c7a97.png",
+                      "时间/de7ac41.png",
+                      "时间/9f82aa1.png",
+                      "时间/6f5e3f1.png"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "attrs": {
+            "name": "时间",
+            "x": 189,
+            "y": 102,
+            "_isLocked": false,
+            "_visibility": true,
+            "w": 121,
+            "h": 24,
+            "resources": {}
+          }
+        },
+        {
+          "id": "r7ljdi",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateMonth",
+            "valueStart": 1,
+            "valueEnd": 12,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 160,
+            "y": 70,
+            "w": 49,
+            "h": 24,
+            "rotation": 0,
+            "name": "月份",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceFormat": 1,
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "月份/c0242ec.png",
+                  "月份/ce4a88c.png",
+                  "月份/1b21b99.png",
+                  "月份/692e5da.png",
+                  "月份/eafef8e.png",
+                  "月份/49a65f8.png",
+                  "月份/6d5062a.png",
+                  "月份/300e200.png",
+                  "月份/bd7efa6.png",
+                  "月份/821c20a.png",
+                  "月份/d79cfbc.png",
+                  "月份/55febe5.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        },
+        {
+          "id": "b72wwp",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateDay",
+            "valueStart": 1,
+            "valueEnd": 31,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 210,
+            "y": 70,
+            "w": 13,
+            "h": 19,
+            "rotation": 0,
+            "name": "日",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "数字填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceFormat": 1,
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "日期/828024e.png",
+                  "日期/09e0070.png",
+                  "日期/c12318d.png",
+                  "日期/08b6946.png",
+                  "日期/af978c6.png",
+                  "日期/d7aac0a.png",
+                  "日期/ed3fc84.png",
+                  "日期/08c498e.png",
+                  "日期/45271b8.png",
+                  "日期/b81eaba.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        },
+        {
+          "id": "p3fwm2",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateWeek",
+            "valueStart": 0,
+            "valueEnd": 6,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 251,
+            "y": 71,
+            "w": 53,
+            "h": 19,
+            "rotation": 0,
+            "name": "星期",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "星期/2e49ca7.png",
+                  "星期/3b16d2f.png",
+                  "星期/16f0773.png",
+                  "星期/bd0b66c.png",
+                  "星期/33d01ce.png",
+                  "星期/313850d.png",
+                  "星期/53799f6.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        },
+        {
+          "id": "3ecwwy",
+          "type": "Widget",
+          "children": [
+            {
+              "id": "hos2sc",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "systemStatusBattery",
+                "valueStart": 0,
+                "valueEnd": 100,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 0,
+                "y": 0,
+                "w": 12,
+                "h": 19,
+                "rotation": 0,
+                "name": "图组6",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "数字填充",
+                "align": "right",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceFormat": 1,
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "电量/d57a445.png",
+                      "电量/ae67fba.png",
+                      "电量/cbe61aa.png",
+                      "电量/7bc893b.png",
+                      "电量/1784a43.png",
+                      "电量/390fccc.png",
+                      "电量/3858ca7.png",
+                      "电量/d360ba5.png",
+                      "电量/5f9412b.png",
+                      "电量/70e73cd.png"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "attrs": {
+            "name": "组3",
+            "x": 148,
+            "y": 105,
+            "_isLocked": false,
+            "_visibility": true,
+            "w": 24,
+            "h": 19,
+            "jumpApp": "settings",
+            "relatedDataKey": "power",
+            "resources": {}
+          }
+        },
+        {
+          "id": "s96x2h",
+          "type": "Widget",
+          "children": [
+            {
+              "id": "89mvem",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "healthStandCount",
+                "valueStart": 0,
+                "valueEnd": 12,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 0,
+                "y": 0,
+                "w": 12,
+                "h": 19,
+                "rotation": 0,
+                "name": "图组7",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "数字填充",
+                "align": "center",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceFormat": 1,
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "心率/d57a445.png",
+                      "心率/ae67fba.png",
+                      "心率/cbe61aa.png",
+                      "心率/7bc893b.png",
+                      "心率/1784a43.png",
+                      "心率/390fccc.png",
+                      "心率/3858ca7.png",
+                      "心率/d360ba5.png",
+                      "心率/5f9412b.png",
+                      "心率/70e73cd.png"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "attrs": {
+            "name": "组2",
+            "x": 113,
+            "y": 344,
+            "_isLocked": false,
+            "_visibility": true,
+            "w": 20,
+            "h": 30,
+            "jumpApp": "activities",
+            "relatedDataKey": "standUp",
+            "resources": {}
+          }
+        },
+        {
+          "id": "syhess",
+          "type": "Widget",
+          "children": [
+            {
+              "id": "lk58og",
+              "type": "ImageArray",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "healthHeartRate",
+                "valueStart": "healthHeartRateMin",
+                "valueEnd": "healthHeartRateMax",
+                "angleStart": 0,
+                "angleEnd": 360,
+                "recolorEnable": true,
+                "x": 0,
+                "y": 0,
+                "w": 12,
+                "h": 19,
+                "rotation": 0,
+                "name": "图组8",
+                "showImgFormat": false,
+                "_visibility": true,
+                "_isLocked": false,
+                "fillType": "数字填充",
+                "align": "center",
+                "space": 0,
+                "widgetSpace": 0,
+                "sourceProgressAccuracy": 10,
+                "sourceWeatherType": "whole",
+                "sourceFormat": 1,
+                "sourceHourMode": "system",
+                "resources": {
+                  "images": {
+                    "syjw0m": [
+                      "心率/d57a445.png",
+                      "心率/ae67fba.png",
+                      "心率/cbe61aa.png",
+                      "心率/7bc893b.png",
+                      "心率/1784a43.png",
+                      "心率/390fccc.png",
+                      "心率/3858ca7.png",
+                      "心率/d360ba5.png",
+                      "心率/5f9412b.png",
+                      "心率/70e73cd.png",
+                      "心率/836b8e9.png"
+                    ]
+                  }
+                }
+              }
+            }
+          ],
+          "attrs": {
+            "name": "组1",
+            "x": 366,
+            "y": 346,
+            "_isLocked": false,
+            "_visibility": true,
+            "w": 30,
+            "h": 40,
+            "jumpApp": "heartrate",
+            "relatedDataKey": "heart",
+            "resources": {}
+          }
+        },
+        {
+          "id": "r911eh",
+          "type": "Widget",
+          "children": [
+            {
+              "id": "5b6kin",
+              "type": "Image",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeHour",
+                "sourceIndex": 0,
+                "recolorEnable": true,
+                "x": 7,
+                "y": 36,
+                "w": 50,
+                "h": 400,
+                "rotation": 0,
+                "name": "时针",
+                "_visibility": true,
+                "_isLocked": false,
+                "angleStart": 0,
+                "angleEnd": 720,
+                "parameter": 1000,
+                "valueStart": 0,
+                "valueEnd": 24,
+                "pointerRegionNum": 0,
+                "shadowPointerOffsetY": 0,
+                "resources": {
+                  "pointer0": {
+                    "syjw0m": [
+                      "f7b4ae4.png"
+                    ]
+                  }
+                },
+                "sourceFormat": 1,
+                "pointerFps": 1
+              }
+            },
+            {
+              "id": "ycnxfb",
+              "type": "Image",
+              "attrs": {
+                "sourceEnabled": true,
+                "source": "timeMinute",
+                "sourceIndex": 0,
+                "recolorEnable": true,
+                "x": 7.5,
+                "y": 35,
+                "w": 50,
+                "h": 400,
+                "rotation": 0,
+                "name": "分针",
+                "_visibility": true,
+                "_isLocked": false,
+                "angleStart": 0,
+                "angleEnd": 360,
+                "parameter": 1000,
+                "valueStart": 0,
+                "valueEnd": 60,
+                "pointerRegionNum": 0,
+                "shadowPointerOffsetY": 0,
+                "resources": {
+                  "pointer0": {
+                    "syjw0m": [
+                      "dd345f1.png"
+                    ]
+                  }
+                },
+                "sourceFormat": 1,
+                "pointerFps": 1
+              }
+            }
+          ],
+          "attrs": {
+            "sourceEnabled": false,
+            "valueStart": 0,
+            "valueEnd": 0,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 200,
+            "y": 0,
+            "w": 64,
+            "h": 464,
+            "rotation": 0,
+            "name": "一套指针（时/分/秒/轴心）",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "_collapsed": false,
+            "flexDirection": "disabled",
+            "justifyContent": "flex-start",
+            "alignItems": "flex-start",
+            "gap": 0,
+            "jumpApp": "",
+            "widgetName": "",
+            "resources": {},
+            "jumpAppId": ""
+          }
+        }
+      ],
+      "bgColor": "#000000",
+      "colorGroupTable": [
+        {
+          "id": "syjw0m",
+          "name": "配色1",
+          "color": "#ffffff"
+        }
+      ],
+      "preview": "_preview/c95fd95.png"
+    },
+    {
+      "id": "0i4gps",
+      "name": "样式1",
+      "type": "AOD",
+      "children": [
+        {
+          "id": "4x4eb8",
+          "type": "Image",
+          "attrs": {
+            "sourceEnabled": false,
+            "valueStart": 0,
+            "valueEnd": 0,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 0,
+            "y": 0,
+            "w": 464,
+            "h": 464,
+            "rotation": 0,
+            "name": "图片背景",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "pointerFps": 1,
+            "pointerRegionNum": 0,
+            "shadowPointerOffsetY": 0,
+            "resources": {
+              "pointer0": {
+                "syjw0m": [
+                  "0856c88.png"
+                ]
+              }
+            },
+            "parameter": 1000
+          }
+        },
+        {
+          "id": "2jqw5c",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "timeHourHigh",
+            "valueStart": 0,
+            "valueEnd": 2,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 192,
+            "y": 121,
+            "w": 38,
+            "h": 59,
+            "rotation": 0,
+            "name": "图组",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "时间/3afe190.png",
+                  "时间/4fe6308.png",
+                  "时间/48c1365.png"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "id": "t46giv",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "timeHourLow",
+            "valueStart": 0,
+            "valueEnd": 9,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 237,
+            "y": 121,
+            "w": 38,
+            "h": 59,
+            "rotation": 0,
+            "name": "图组1",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "时间/3afe190.png",
+                  "时间/4fe6308.png",
+                  "时间/48c1365.png",
+                  "时间/36f98eb.png",
+                  "时间/a4883a0.png",
+                  "时间/ae2038d.png",
+                  "时间/7c741ca.png",
+                  "时间/688d884.png",
+                  "时间/8baaaac.png",
+                  "时间/d40d3b1.png"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "id": "92s16w",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "timeMinuteHigh",
+            "valueStart": 0,
+            "valueEnd": 5,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 192,
+            "y": 212,
+            "w": 38,
+            "h": 59,
+            "rotation": 0,
+            "name": "图组2",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "时间/3afe190.png",
+                  "时间/4fe6308.png",
+                  "时间/48c1365.png",
+                  "时间/36f98eb.png",
+                  "时间/a4883a0.png",
+                  "时间/ae2038d.png"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "id": "cqi633",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "timeMinuteLow",
+            "valueStart": 0,
+            "valueEnd": 9,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 237,
+            "y": 212,
+            "w": 38,
+            "h": 59,
+            "rotation": 0,
+            "name": "图组3",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "时间/3afe190.png",
+                  "时间/4fe6308.png",
+                  "时间/48c1365.png",
+                  "时间/36f98eb.png",
+                  "时间/a4883a0.png",
+                  "时间/ae2038d.png",
+                  "时间/7c741ca.png",
+                  "时间/688d884.png",
+                  "时间/8baaaac.png",
+                  "时间/d40d3b1.png"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "id": "uc84sd",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateMonth",
+            "valueStart": 1,
+            "valueEnd": 12,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 163,
+            "y": 318,
+            "w": 49,
+            "h": 24,
+            "rotation": 0,
+            "name": "月份",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceFormat": 1,
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "月份/3bee34f.png",
+                  "月份/1537a5a.png",
+                  "月份/3ffdd5c.png",
+                  "月份/ca88ce5.png",
+                  "月份/6d79900.png",
+                  "月份/4125c00.png",
+                  "月份/db0cf25.png",
+                  "月份/ddc7c88.png",
+                  "月份/b973501.png",
+                  "月份/149a5ee.png",
+                  "月份/e8aa5e8.png",
+                  "月份/eb1f5ee.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        },
+        {
+          "id": "4ptjgt",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateDay",
+            "valueStart": 1,
+            "valueEnd": 31,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 213,
+            "y": 318,
+            "w": 13,
+            "h": 19,
+            "rotation": 0,
+            "name": "日",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "数字填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceFormat": 1,
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "日期/cbffe4d.png",
+                  "日期/8be04c9.png",
+                  "日期/b9c843f.png",
+                  "日期/69ff721.png",
+                  "日期/853574b.png",
+                  "日期/f080c4a.png",
+                  "日期/5fa6148.png",
+                  "日期/7f57cab.png",
+                  "日期/35cbd42.png",
+                  "日期/5b6eb7d.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        },
+        {
+          "id": "l8ysbc",
+          "type": "ImageArray",
+          "attrs": {
+            "sourceEnabled": true,
+            "source": "dateWeek",
+            "valueStart": 0,
+            "valueEnd": 6,
+            "angleStart": 0,
+            "angleEnd": 360,
+            "recolorEnable": true,
+            "x": 257,
+            "y": 318,
+            "w": 52,
+            "h": 19,
+            "rotation": 0,
+            "name": "星期",
+            "showImgFormat": false,
+            "_visibility": true,
+            "_isLocked": false,
+            "fillType": "普通填充",
+            "align": "left",
+            "space": 0,
+            "widgetSpace": 0,
+            "sourceProgressAccuracy": 10,
+            "sourceWeatherType": "whole",
+            "sourceHourMode": "system",
+            "resources": {
+              "images": {
+                "syjw0m": [
+                  "星期/9ec2b8b.png",
+                  "星期/12b7679.png",
+                  "星期/9936d6f.png",
+                  "星期/a5444b5.png",
+                  "星期/cb74e31.png",
+                  "星期/de84d07.png",
+                  "星期/295f32c.png"
+                ]
+              }
+            },
+            "format": "truecolor_alpha"
+          }
+        }
+      ],
+      "bgColor": "#000000",
+      "colorGroupTable": [
+        {
+          "id": "syjw0m",
+          "name": "配色1",
+          "color": "#ffffff"
+        }
+      ],
+      "preview": "_preview/ffec529.png",
+      "isSingleAOD": true
+    }
+  ],
+  "i18n": {
+    "translations": {},
+    "locales": []
+  },
+  "webVersionCreatedAt": "2024-01-29T10:46:38+08:00"
+}

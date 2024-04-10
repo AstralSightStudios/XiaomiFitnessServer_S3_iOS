@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<watch>
+	<shape>circle</shape>
+	<name>高级蓝橙撞色</name>
+	<deviceType>N62</deviceType>
+	<version>1.0.1</version>
+	<size>464x464</size>
+	<author>乐雨</author>
+	<pkgName>362210355</pkgName>
+	<imageFormat>indexed8</imageFormat>
+	<imageCompression>false</imageCompression>
+	<editorVersion>2.0.6</editorVersion>
+	<_recolorEnable>false</_recolorEnable>
+</watch>
