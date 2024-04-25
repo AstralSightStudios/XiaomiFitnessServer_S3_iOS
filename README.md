@@ -16,7 +16,7 @@ class Handlers
 {
     static function OnBeforeRequest(oSession: Session){
         var serveraddr = "http://localhost:3819/"
-        if(oSession.fullUrl.Contains("https://cdn.cnbj1.fds.api.mi-img.com/hlth-operate/watch_face/")){
+        if(oSession.fullUrl.Contains("https://cdn.cnbj1.fds.api.mi-img.com/hlth-operate/watch_face/") && oSession.fullUrl.Contains(".zip")){
             oSession.fullUrl = oSession.fullUrl.Replace("https://cdn.cnbj1.fds.api.mi-img.com/hlth-operate/watch_face/", serveraddr)
         }
     }
